@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: dvsmedeiros
+Class-Path: parallel-indexer-0.0.1-SNAPSHOT.lib/indexed-file-reader-1.
+ 0.jar parallel-indexer-0.0.1-SNAPSHOT.lib/gson-2.8.3.jar
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Main-Class: com.dvsmedeiros.test.ParallelIndexer
+
